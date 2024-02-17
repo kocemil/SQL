@@ -1,4 +1,4 @@
-# Welcome on my SQL portfolio
+# Welcome to my SQL portfolio
 ## In my SQL portfolio, 
 I plan to include a diverse range of SQL queries and projects that demonstrate my proficiency in working with relational databases and querying data effectively. The portfolio will showcase my ability to write SQL queries for tasks such as *data manipulation, aggregation, filtering, and analysis.*
 
